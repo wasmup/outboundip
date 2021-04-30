@@ -1,3 +1,3 @@
-module github.com/wasmup/outboundip
+module outboundip
 
 go 1.16
